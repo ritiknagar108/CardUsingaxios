@@ -1,0 +1,19 @@
+.Card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    justify-content: space-evenly;
+    height: 30vh; 
+    border: 1px solid #98ABEE;
+    border-radius: 5vh;
+    background-color: #E3DAC9;
+}
+img{
+    border-radius: 3vh;
+    height: 16vh;
+    width: 16vh;
+    background-color: #98ABEE;
+
+}
